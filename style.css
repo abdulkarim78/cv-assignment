@@ -1,0 +1,59 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 13px;
+}
+body {
+    background: #696969;
+    display: flex;
+    height: 1159.714px;
+}
+.left-side {
+    background: #2c323d;
+    color: white;
+    padding: 20px 30px;
+    margin-left: auto;
+    max-width: 280px;
+    border-bottom: 8px solid #096e66;
+}
+.right-side {
+    background: white;
+    color: #2c323d;
+    padding: 20px 30px;
+    margin-right: auto;
+    max-width: 540px;
+    border-bottom: 8px solid #2c323d;
+}
+.name,
+.karim {
+    font-size: 54px;
+    margin: 20px 0 0 0;
+    font-weight: 700;
+}
+.karim {
+    color: #096e66;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    line-height: 2;
+    list-style-type: none;
+}
+.left-heading {
+    font-size: 24px;
+    margin: 12px 0 2px 0;
+}
+.right-heading {
+    font-size: 24px;
+    margin: 12px 0 2px 0;
+}
+.light-hr {
+    width: 40px;
+    border: 2px solid #096e66;
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
