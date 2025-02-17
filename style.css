@@ -49,11 +49,14 @@ ul {
     font-size: 24px;
     margin: 12px 0 2px 0;
 }
-.light-hr {
+.hr {
     width: 40px;
     border: 2px solid #096e66;
 }
 p {
     text-align: justify;
     text-justify: inter-word;
+}
+.margin-top{
+    margin-top: 8px;
 }
